@@ -19,7 +19,3 @@
   <img src="https://github.com/DeangellesES/tela_de_inscricao-Tailwind-CSS/blob/main/tela_de_inscricao.png" width="800">
 </div>
 
-<h3 align="center">Tela de inscrição</h3>
-<div align="center">
-  <img src="https://github.com/DeangellesES/tela_de_inscricao-Tailwind-CSS/blob/main/tela_de_inscricao-responsiva.png" width="400">
-</div>
